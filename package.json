@@ -12,12 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/commander": "^2.12.2",
-    "@types/js-yaml": "^3.11.1",
-    "@types/markdown-it": "0.0.4",
-    "@types/mkdirp": "^0.5.2",
-    "commander": "^2.15.1",
+    "@types/commander": "^2.12.5",
+    "@types/js-yaml": "^4.0.9",
+    "@types/markdown-it": "^14.1.2",
+    "@types/mkdirp": "^2.0.0",
+    "commander": "^14.0.2",
     "js-yaml": "^4.1.1",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^3.0.1"
   }
 }

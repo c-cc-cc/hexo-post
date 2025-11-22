@@ -7,7 +7,6 @@
 example [hexo.yaml](https://github.com/c-cc-cc/knowledge/blob/master/hexo.yaml)
 
 ```yaml
-
 repository: https://github.com/c-cc-cc/knowledge
 
 posts:
@@ -65,5 +64,5 @@ posts:
 ```
 
 ```sh
-hexo-post -f path/to/hexo.yaml
+hexo-post -v -c path/to/config-dir -o .
 ```
