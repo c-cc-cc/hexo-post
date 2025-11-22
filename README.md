@@ -2,13 +2,13 @@
 
 读取某个目录下的配置文件，通过该配置文件，指定要发布的文件内容
 
-### Example
+## Example
 
-example [hexo.yaml](https://github.com/liuyanjie/knowledge/blob/master/hexo.yaml)
+example [hexo.yaml](https://github.com/c-cc-cc/knowledge/blob/master/hexo.yaml)
 
 ```yaml
 
-repository: https://github.com/liuyanjie/knowledge
+repository: https://github.com/c-cc-cc/knowledge
 
 posts:
   - title: libuv源码分析（一）全局概览（Overview）
